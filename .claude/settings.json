@@ -1,0 +1,15 @@
+{
+  "enabledMcpjsonServers": ["browsermcp"],
+  "permissions": {
+    "allow": [
+      "mcp__browsermcp",
+      "WebSearch",
+      "WebFetch",
+      "Read(./**)",
+      "Edit(./config.md)",
+      "Edit(./data/**)",
+      "Write(./config.md)",
+      "Write(./data/**)"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# Personal files, created on first run
+config.md
+data/
+resume/*
+!resume/.gitkeep
+.claude/settings.local.json
+.DS_Store
